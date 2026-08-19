@@ -89,6 +89,27 @@ app/
   seed.py       - carga inicial de tiendas desde data/stores_seed.json
 templates/      - login.html, index.html
 static/         - app.js (logica del mapa/checklist), manifest.json (PWA), icons/
+  vendor/       - Leaflet y Tailwind compilados localmente (NO CDN externo, ver nota abajo)
 data/
   stores_seed.json - datos exportados de agrupar_tiendas_bloque23.py
 ```
+
+## Por que no usamos CDN externo (unpkg / cdn.tailwindcss.com)
+
+Si la app se abre desde una red corporativa con firewall/proxy restrictivo
+(ej. VPN de Walmart), esos dominios externos pueden bloquearse y el mapa o
+los estilos no cargan. Por eso `static/vendor/leaflet/` y
+`static/vendor/tailwind.css` viven dentro del propio proyecto: el navegador
+solo necesita hablar con el dominio de la app, nunca con unpkg.com ni
+cdn.tailwindcss.com.
+
+Si cambias clases de Tailwind en `templates/*.html` o `static/app.js`, hay
+que recompilar `static/vendor/tailwind.css`:
+
+1. Descarga el CLI standalone de Tailwind (no requiere Node/npm):
+   https://github.com/tailwindlabs/tailwindcss/releases (ej. `tailwindcss-windows-x64.exe`)
+2. Corre:
+
+   ```bash
+   tailwindcss -i tailwind.input.css -o static/vendor/tailwind.css --config tailwind.config.js --minify
+   ```

@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 data/app.db
 *.log
+server.log
+.tmpvenv/
 cookies.txt
 stores_out.json
 index_out.html
