@@ -8,7 +8,7 @@ import os
 from fastapi import Request
 from fastapi.responses import RedirectResponse
 
-APP_PIN = os.environ.get("APP_PIN", "2026")
+APP_PIN = os.environ.get("APP_PIN", "2026").strip()
 SESSION_KEY = "user_name"
 
 

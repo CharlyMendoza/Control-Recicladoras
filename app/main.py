@@ -53,7 +53,7 @@ def login_submit(request: Request, nombre: str = Form(...), pin: str = Form(...)
     nombre = nombre.strip()
     if not nombre:
         return RedirectResponse(url="/login?error=Escribe+tu+nombre", status_code=303)
-    if pin != auth.APP_PIN:
+    if pin.strip() != auth.APP_PIN:
         return RedirectResponse(url="/login?error=PIN+incorrecto", status_code=303)
     auth.login_user(request, nombre)
     return RedirectResponse(url="/", status_code=303)
