@@ -39,6 +39,14 @@ def healthz():
     return {"status": "ok"}
 
 
+@app.get("/api/_debug_pin")
+def debug_pin():
+    """Ruta TEMPORAL de diagnostico: muestra que PIN esta viendo el servidor
+    realmente (con repr() para detectar espacios/comillas/caracteres invisibles).
+    Quitar esta ruta en cuanto se resuelva el problema de login."""
+    return {"pin_repr": repr(auth.APP_PIN), "pin_length": len(auth.APP_PIN)}
+
+
 # ---------------- Auth ----------------
 
 @app.get("/login", response_class=HTMLResponse)
