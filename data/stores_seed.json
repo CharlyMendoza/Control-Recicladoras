@@ -1,0 +1,912 @@
+[
+  {
+    "det": 1236,
+    "nombre": "Bodega Atlacomulco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 1,
+    "lat": 19.795697,
+    "lon": -99.884745
+  },
+  {
+    "det": 2141,
+    "nombre": "Bodega Xonacatlán",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 2,
+    "lat": 19.404663,
+    "lon": -99.524345
+  },
+  {
+    "det": 6314,
+    "nombre": "Sams Santin",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 3,
+    "lat": 19.351149,
+    "lon": -99.593822
+  },
+  {
+    "det": 5825,
+    "nombre": "Supercenter Alfredo del Mazo Toluca",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 4,
+    "lat": 19.307819,
+    "lon": -99.634353
+  },
+  {
+    "det": 2221,
+    "nombre": "Bodega Alpinismo",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 5,
+    "lat": 19.263987,
+    "lon": -99.692065
+  },
+  {
+    "det": 3043,
+    "nombre": "Bodega Zinacantepec",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 1,
+    "orden": 6,
+    "lat": 19.291615,
+    "lon": -99.734945
+  },
+  {
+    "det": 5662,
+    "nombre": "Bodega Tenancingo",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 1,
+    "lat": 18.961215,
+    "lon": -99.588448
+  },
+  {
+    "det": 2873,
+    "nombre": "Bodega Dimas",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 2,
+    "lat": 19.175474,
+    "lon": -99.56805
+  },
+  {
+    "det": 4956,
+    "nombre": "Walmart Express Circuito Metropolitano",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 3,
+    "lat": 19.255152,
+    "lon": -99.553037
+  },
+  {
+    "det": 1428,
+    "nombre": "Bodega San Mateo Atenco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 4,
+    "lat": 19.261049,
+    "lon": -99.530587
+  },
+  {
+    "det": 1177,
+    "nombre": "Bodega Santiago Tianguistenco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 5,
+    "lat": 19.176364,
+    "lon": -99.469749
+  },
+  {
+    "det": 4017,
+    "nombre": "Bodega Toluca Sur",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 2,
+    "orden": 6,
+    "lat": 19.262538,
+    "lon": -99.645929
+  },
+  {
+    "det": 3725,
+    "nombre": "Bodega Pilares Toluca",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 1,
+    "lat": 19.269578,
+    "lon": -99.597442
+  },
+  {
+    "det": 3858,
+    "nombre": "Supercenter Cuajimalpa",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 2,
+    "lat": 19.364323,
+    "lon": -99.288704
+  },
+  {
+    "det": 6233,
+    "nombre": "Sams Club Jesús Del Monte",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 3,
+    "lat": 19.398723,
+    "lon": -99.288264
+  },
+  {
+    "det": 3835,
+    "nombre": "Walmart Express Lomas Anahuac",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 4,
+    "lat": 19.406666,
+    "lon": -99.256799
+  },
+  {
+    "det": 4989,
+    "nombre": "Sams Club Vasco de Quiroga",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 5,
+    "lat": 19.377668,
+    "lon": -99.253966
+  },
+  {
+    "det": 1770,
+    "nombre": "Supercenter Vasco de Quiroga",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 3,
+    "orden": 6,
+    "lat": 19.377319,
+    "lon": -99.254423
+  },
+  {
+    "det": 5247,
+    "nombre": "Bodega Citara Huehuetoca",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 1,
+    "lat": 19.870498,
+    "lon": -99.218556
+  },
+  {
+    "det": 1150,
+    "nombre": "Bodega Huehuetoca",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 2,
+    "lat": 19.832681,
+    "lon": -99.209476
+  },
+  {
+    "det": 5770,
+    "nombre": "Bodega Zumpango",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 3,
+    "lat": 19.804716,
+    "lon": -99.107637
+  },
+  {
+    "det": 1899,
+    "nombre": "Bodega San Juan de la Labor",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 4,
+    "lat": 19.781383,
+    "lon": -99.024787
+  },
+  {
+    "det": 3167,
+    "nombre": "Bodega Santa Inés",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 5,
+    "lat": 19.721165,
+    "lon": -99.138379
+  },
+  {
+    "det": 3924,
+    "nombre": "Bodega Cofradías",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 4,
+    "orden": 6,
+    "lat": 19.686096,
+    "lon": -99.214854
+  },
+  {
+    "det": 1002,
+    "nombre": "Bodega Teotihuacán",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 1,
+    "lat": 19.681181,
+    "lon": -98.864701
+  },
+  {
+    "det": 1828,
+    "nombre": "Bodega Acolman",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 2,
+    "lat": 19.6228,
+    "lon": -98.9348
+  },
+  {
+    "det": 2054,
+    "nombre": "Bodega Terranova",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 3,
+    "lat": 19.606846,
+    "lon": -98.974428
+  },
+  {
+    "det": 4558,
+    "nombre": "Bodega Tecamac",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 4,
+    "lat": 19.659813,
+    "lon": -99.003331
+  },
+  {
+    "det": 3214,
+    "nombre": "Bodega Chinampa",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 5,
+    "lat": 19.685383,
+    "lon": -98.99231
+  },
+  {
+    "det": 4960,
+    "nombre": "Sams Club San José Tecamac",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 5,
+    "orden": 6,
+    "lat": 19.69571,
+    "lon": -98.98152
+  },
+  {
+    "det": 3884,
+    "nombre": "Bodega Chalco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 1,
+    "lat": 19.263938,
+    "lon": -98.897101
+  },
+  {
+    "det": 4958,
+    "nombre": "Sams Club El Cortijo Ixtapaluca",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 2,
+    "lat": 19.295919,
+    "lon": -98.884213
+  },
+  {
+    "det": 4541,
+    "nombre": "Bodega Ixtapaluca",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 3,
+    "lat": 19.310522,
+    "lon": -98.899303
+  },
+  {
+    "det": 1109,
+    "nombre": "Bodega Ayotla",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 4,
+    "lat": 19.310237,
+    "lon": -98.923614
+  },
+  {
+    "det": 3296,
+    "nombre": "Bodega Villas de Ayotla",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 5,
+    "lat": 19.31937,
+    "lon": -98.938689
+  },
+  {
+    "det": 1001,
+    "nombre": "Bodega San Buenaventura",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 6,
+    "orden": 6,
+    "lat": 19.309603,
+    "lon": -98.860492
+  },
+  {
+    "det": 3778,
+    "nombre": "Bodega Xochimilco",
+    "formato": "Bodega",
+    "estatus": "EN PROCESO",
+    "grupo_id": 7,
+    "orden": 1,
+    "lat": 19.267504,
+    "lon": -99.117236
+  },
+  {
+    "det": 1821,
+    "nombre": "Bodega San Lorenzo",
+    "formato": "Bodega",
+    "estatus": "COMPLETA",
+    "grupo_id": 7,
+    "orden": 2,
+    "lat": 19.323974,
+    "lon": -99.07491
+  },
+  {
+    "det": 3799,
+    "nombre": "Bodega Los Angeles Iztapalapa",
+    "formato": "Bodega",
+    "estatus": "COMPLETA",
+    "grupo_id": 7,
+    "orden": 3,
+    "lat": 19.346118,
+    "lon": -99.069202
+  },
+  {
+    "det": 3848,
+    "nombre": "Supercenter Taxqueña",
+    "formato": "Supercenter",
+    "estatus": "EN PROCESO",
+    "grupo_id": 7,
+    "orden": 4,
+    "lat": 19.345195,
+    "lon": -99.182582
+  },
+  {
+    "det": 3833,
+    "nombre": "Walmart Express Jardines",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 7,
+    "orden": 5,
+    "lat": 19.318258,
+    "lon": -99.211061
+  },
+  {
+    "det": 3863,
+    "nombre": "Supercenter Perisur",
+    "formato": "Supercenter",
+    "estatus": "EN PROCESO",
+    "grupo_id": 7,
+    "orden": 6,
+    "lat": 19.306272,
+    "lon": -99.187261
+  },
+  {
+    "det": 3837,
+    "nombre": "Walmart Express Luis Cabrera",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 8,
+    "orden": 1,
+    "lat": 19.321325,
+    "lon": -99.221382
+  },
+  {
+    "det": 3397,
+    "nombre": "Walmart Express Mayorazgo",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 8,
+    "orden": 2,
+    "lat": 19.359217,
+    "lon": -99.16808
+  },
+  {
+    "det": 2766,
+    "nombre": "Walmart Express Felix Cuevas",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 8,
+    "orden": 3,
+    "lat": 19.372754,
+    "lon": -99.172859
+  },
+  {
+    "det": 3819,
+    "nombre": "Walmart Express Del Valle",
+    "formato": "Walmart Express",
+    "estatus": "EN PROCESO",
+    "grupo_id": 8,
+    "orden": 4,
+    "lat": 19.381698,
+    "lon": -99.162625
+  },
+  {
+    "det": 3786,
+    "nombre": "Bodega Santa Fe Belén",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 8,
+    "orden": 5,
+    "lat": 19.387594,
+    "lon": -99.222972
+  },
+  {
+    "det": 3829,
+    "nombre": "Walmart Express Bosques",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 8,
+    "orden": 6,
+    "lat": 19.402653,
+    "lon": -99.242839
+  },
+  {
+    "det": 3668,
+    "nombre": "Bodega Real de Costitlán",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 1,
+    "lat": 19.4098,
+    "lon": -98.8967
+  },
+  {
+    "det": 5733,
+    "nombre": "Bodega Plaza Chimalhuacan",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 2,
+    "lat": 19.408934,
+    "lon": -98.928242
+  },
+  {
+    "det": 4128,
+    "nombre": "Bodega Arca de Noé",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 3,
+    "lat": 19.425096,
+    "lon": -98.932654
+  },
+  {
+    "det": 2736,
+    "nombre": "Bodega Peñon",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 4,
+    "lat": 19.4216,
+    "lon": -98.9712
+  },
+  {
+    "det": 3775,
+    "nombre": "Bodega La Aurora",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 5,
+    "lat": 19.406378,
+    "lon": -98.994739
+  },
+  {
+    "det": 3891,
+    "nombre": "Bodega Los Reyes",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 9,
+    "orden": 6,
+    "lat": 19.356908,
+    "lon": -98.991768
+  },
+  {
+    "det": 3916,
+    "nombre": "Bodega Iztapalapa Norte",
+    "formato": "Bodega",
+    "estatus": "COMPLETA",
+    "grupo_id": 10,
+    "orden": 1,
+    "lat": 19.346896,
+    "lon": -99.018365
+  },
+  {
+    "det": 3797,
+    "nombre": "Bodega Cabeza de Juárez",
+    "formato": "Bodega",
+    "estatus": "COMPLETA",
+    "grupo_id": 10,
+    "orden": 2,
+    "lat": 19.37853,
+    "lon": -99.058356
+  },
+  {
+    "det": 3757,
+    "nombre": "Bodega San Juan de Aragón",
+    "formato": "Bodega",
+    "estatus": "COMPLETA",
+    "grupo_id": 10,
+    "orden": 3,
+    "lat": 19.465358,
+    "lon": -99.081847
+  },
+  {
+    "det": 5133,
+    "nombre": "Walmart Express Plaza Tepeyac",
+    "formato": "Walmart Express",
+    "estatus": "DETENIDA",
+    "grupo_id": 10,
+    "orden": 4,
+    "lat": 19.477811,
+    "lon": -99.099505
+  },
+  {
+    "det": 3777,
+    "nombre": "Bodega Valle de Aragón",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 10,
+    "orden": 5,
+    "lat": 19.489349,
+    "lon": -99.054368
+  },
+  {
+    "det": 3809,
+    "nombre": "Walmart Express Pachuca",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 10,
+    "orden": 6,
+    "lat": 19.415212,
+    "lon": -99.178015
+  },
+  {
+    "det": 3795,
+    "nombre": "Bodega Texcoco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 1,
+    "lat": 19.519481,
+    "lon": -98.879352
+  },
+  {
+    "det": 3753,
+    "nombre": "Bodega Plaza Aragón",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 2,
+    "lat": 19.529902,
+    "lon": -99.026667
+  },
+  {
+    "det": 1201,
+    "nombre": "Bodega San Agustín",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 3,
+    "lat": 19.530769,
+    "lon": -99.050522
+  },
+  {
+    "det": 5765,
+    "nombre": "Supercenter Las Américas",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 4,
+    "lat": 19.580031,
+    "lon": -99.022137
+  },
+  {
+    "det": 3910,
+    "nombre": "Bodega Las Palomas",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 5,
+    "lat": 19.609721,
+    "lon": -99.017348
+  },
+  {
+    "det": 2871,
+    "nombre": "Bodega Viento Nuevo",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 11,
+    "orden": 6,
+    "lat": 19.612145,
+    "lon": -99.007339
+  },
+  {
+    "det": 3844,
+    "nombre": "Walmart Express Bosques de Minas",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 12,
+    "orden": 1,
+    "lat": 19.42247,
+    "lon": -99.260085
+  },
+  {
+    "det": 3811,
+    "nombre": "Walmart Express Horacio",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 12,
+    "orden": 2,
+    "lat": 19.433755,
+    "lon": -99.189965
+  },
+  {
+    "det": 3832,
+    "nombre": "Walmart Express Homero",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 12,
+    "orden": 3,
+    "lat": 19.434953,
+    "lon": -99.185904
+  },
+  {
+    "det": 3025,
+    "nombre": "Walmart Express Parques Polanco",
+    "formato": "Walmart Express",
+    "estatus": "COMPLETA",
+    "grupo_id": 12,
+    "orden": 4,
+    "lat": 19.440442,
+    "lon": -99.185365
+  },
+  {
+    "det": 1559,
+    "nombre": "Bodega San Mateo Nopala",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 12,
+    "orden": 5,
+    "lat": 19.503247,
+    "lon": -99.265079
+  },
+  {
+    "det": 4879,
+    "nombre": "Sams Club Lomas Verdes",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 13,
+    "orden": 1,
+    "lat": 19.513247,
+    "lon": -99.266297
+  },
+  {
+    "det": 3824,
+    "nombre": "Walmart Express Oradores",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 13,
+    "orden": 2,
+    "lat": 19.519652,
+    "lon": -99.246367
+  },
+  {
+    "det": 1169,
+    "nombre": "Supercenter Plaza Arboledas",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 13,
+    "orden": 3,
+    "lat": 19.546966,
+    "lon": -99.209048
+  },
+  {
+    "det": 1834,
+    "nombre": "Supercenter Plaza del Lago",
+    "formato": "Supercenter",
+    "estatus": null,
+    "grupo_id": 13,
+    "orden": 4,
+    "lat": 19.638361,
+    "lon": -99.223369
+  },
+  {
+    "det": 4666,
+    "nombre": "Walmart Express Izcalli",
+    "formato": "Walmart Express",
+    "estatus": null,
+    "grupo_id": 13,
+    "orden": 5,
+    "lat": 19.644722,
+    "lon": -99.205091
+  },
+  {
+    "det": 3792,
+    "nombre": "Bodega San Juanico",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 14,
+    "orden": 1,
+    "lat": 19.516316,
+    "lon": -99.099177
+  },
+  {
+    "det": 3213,
+    "nombre": "Bodega La Presa (antes Chiquihuite)",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 14,
+    "orden": 2,
+    "lat": 19.536532,
+    "lon": -99.114448
+  },
+  {
+    "det": 3020,
+    "nombre": "Bodega Xalostoc",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 14,
+    "orden": 3,
+    "lat": 19.549653,
+    "lon": -99.075146
+  },
+  {
+    "det": 3783,
+    "nombre": "Bodega Santa Clara",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 14,
+    "orden": 4,
+    "lat": 19.555727,
+    "lon": -99.0491
+  },
+  {
+    "det": 1110,
+    "nombre": "Bodega Plaza Ecatepec",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 14,
+    "orden": 5,
+    "lat": 19.5818,
+    "lon": -99.0407
+  },
+  {
+    "det": 2954,
+    "nombre": "Bodega El Dorado Tultepec",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 15,
+    "orden": 1,
+    "lat": 19.665462,
+    "lon": -99.129415
+  },
+  {
+    "det": 4805,
+    "nombre": "Sams Club Coacalco",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 15,
+    "orden": 2,
+    "lat": 19.637899,
+    "lon": -99.097394
+  },
+  {
+    "det": 2386,
+    "nombre": "Bodega Avenida Dalias",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 15,
+    "orden": 3,
+    "lat": 19.640947,
+    "lon": -99.082248
+  },
+  {
+    "det": 1400,
+    "nombre": "Bodega Joyas de Coacalco",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 15,
+    "orden": 4,
+    "lat": 19.656753,
+    "lon": -99.072722
+  },
+  {
+    "det": 1664,
+    "nombre": "Bodega Mexiquense",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 15,
+    "orden": 5,
+    "lat": 19.635354,
+    "lon": -99.038085
+  },
+  {
+    "det": 6232,
+    "nombre": "Sams Club Ecatepec Centro",
+    "formato": "Sams",
+    "estatus": null,
+    "grupo_id": 16,
+    "orden": 1,
+    "lat": 19.606728,
+    "lon": -99.046638
+  },
+  {
+    "det": 3888,
+    "nombre": "Bodega Vía Morelos",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 16,
+    "orden": 2,
+    "lat": 19.597361,
+    "lon": -99.035457
+  },
+  {
+    "det": 1008,
+    "nombre": "Bodega Héroes Tecamac",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 16,
+    "orden": 3,
+    "lat": 19.618487,
+    "lon": -99.025815
+  },
+  {
+    "det": 3098,
+    "nombre": "Bodega Guadalupana",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 16,
+    "orden": 4,
+    "lat": 19.629732,
+    "lon": -99.019669
+  },
+  {
+    "det": 4029,
+    "nombre": "Bodega Av. Nacional",
+    "formato": "Bodega",
+    "estatus": null,
+    "grupo_id": 16,
+    "orden": 5,
+    "lat": 19.636565,
+    "lon": -99.001355
+  }
+]

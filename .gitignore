@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+data/app.db
+*.log
+cookies.txt
+stores_out.json
+index_out.html
+login_out.html
+.env
